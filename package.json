@@ -1,0 +1,9 @@
+{
+  "name": "workspot-landing-page",
+  "version": "1.0.0",
+  "description": "Landing page for WorkSpot app",
+  "main": "index.js",
+  "repository": "https://github.com/joaoflf/workspot-landing-page.git",
+  "author": "joaoflf",
+  "license": "MIT"
+}
